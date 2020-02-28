@@ -496,7 +496,7 @@
                         <artifactId>tomcat-maven-plugin</artifactId>
                         <version>1.1</version>
                      <configuration>
-                        <url>http://localhost:8085/manager/text</url>
+                        <url>http://localhost:8085/manager/html</url>
                         <server>TomcatServer</server>
                         <path>/gameoflife</path>
                      </configuration>
